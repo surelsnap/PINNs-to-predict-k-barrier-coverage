@@ -87,8 +87,7 @@ Our **Intelligent WSN Deployment Optimizer** uses cutting-edge Physics-Informed 
 - **RMSE:** 7.82 barriers
 - **Physics Constraint Satisfaction:** 100%
 
-*Note: The high accuracy is expected and validated because we're predicting deterministic WSN physics relationships, not random noise. See our [Validation Guide](docs/VALIDATION_AND_TRUST.md) for detailed justification.*
-
+*Note: The high accuracy is expected and validated because we're predicting deterministic WSN physics relationships, not random noise. 
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -169,9 +168,9 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
-- **Project Lead:** [Your Name]
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn]
+- **Project Lead:** [Surel Sanap]
+- **Email:** [surelsanap05@gmail.com]
+- **LinkedIn:** [(https://www.linkedin.com/in/surelsanap)]
 
 ## 🙏 Acknowledgments
 - Research community for PINN methodology
